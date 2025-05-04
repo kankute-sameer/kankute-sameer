@@ -10,7 +10,7 @@ I graduated from IIT Bombay. Currently, I’m developing a multi-agent chatbot p
 - 🌱 Currently exploring LLM agents and streaming architectures  
 - 💬 Open to discussions on scalable AI systems  
 - 📫 Reach me at: [sameerkankute@gmail.com](mailto:iamkankute@gmail.com)  
-- ⚡ Fun fact: I love merging backend engineering with product thinking  
+- ⚡ Fun fact: Coding and coffee hits hard  
 
 ## Languages and Tools
 
